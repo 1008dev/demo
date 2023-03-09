@@ -35,7 +35,6 @@ kiwisolver==1.4.4
 MarkupSafe==2.1.1
 marshmallow==3.18.0
 matplotlib==3.5.3
-menuinst==1.4.16
 multidict==6.0.2
 multitasking==0.0.11
 numpy==1.21.6
